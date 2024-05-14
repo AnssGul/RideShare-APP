@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64480859339",
+    "project_id": "pakriderapp",
+    "storage_bucket": "pakriderapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64480859339:android:c9e7e2572347a2ab17374e",
+        "android_client_info": {
+          "package_name": "com.example.pakriders"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCajd4WQx2GSwKDfUMkVX8GBZ6Z3KYEfFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
